@@ -1,4 +1,15 @@
 li {
-    display: inline-block;
-    
+    display: inline-block;  
+}
+
+.ms-bg-grey {
+    background-color: #2B3D4F;
+}
+
+.ms-pd-0 {
+    padding: 0;
+}
+
+.ms-mrg-0 {
+    margin: 0;
 }

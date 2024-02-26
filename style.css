@@ -21,3 +21,9 @@ li {
 .ms-hero > img {
     width: 20%;
 }
+
+.ms-line {
+    width: 120px;
+    height: 3px;
+    background-color: black;
+}
